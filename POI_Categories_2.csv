@@ -1,0 +1,266 @@
+Category,SubCategory,POIName,shp_cnt
+amenity,bank,United Overseas Bank,1
+amenity,bus_station,Cyberjaya Bus Station,1
+amenity,bus_station,Putrajaya Sentral,1
+amenity,cafe,Cendol Durian Borhan,1
+amenity,cafe,Lorate Cafe,1
+amenity,cafe,Monjo Coffee,1
+amenity,cafe,Old Town White Coffee,1
+amenity,cafe,PappaRich,1
+amenity,cafe,Poolside Cafe,2
+amenity,cafe,Putrajaya,1
+amenity,cafe,San Francisco Coffee,1
+amenity,cafe,Tappers Cafe Cyberjaya,1
+amenity,cafe,Tau Cafe,1
+amenity,cafe,Tealive,1
+amenity,cafe,The Coffee Bean & Tea Leaf,2
+amenity,clinic,Pusat Kesihatan Precinct 9,1
+amenity,college,Cyberjaya University College of Medical Sciences (CUCMS),1
+amenity,college,Kirkby International College,1
+amenity,college,University Malaysia of Computer Science & Engineering (UNIMY),1
+amenity,community_centre,Dewan Masjid Raja Haji Fisabilillah,2
+amenity,community_centre,Dewan Serbaguna Presint 9,1
+amenity,community_centre,Komplek Kejiranan Presint 9,1
+amenity,crematorium,Presint 20,1
+amenity,fast_food,Dominos,1
+amenity,fast_food,KFC,1
+amenity,fast_food,Marrybrown,1
+amenity,fast_food,Pizza Hut Restaurant,1
+amenity,fire_station,Balai Bomba & Penyelamat Putrajaya,1
+amenity,fire_station,Balai Bomba dan Penyelamat Cyberjaya,2
+amenity,fire_station,Ibu Pejabat Jabatan Bomba & Penyelamat,1
+amenity,food_court,Central Food Court(CFC),1
+amenity,food_court,Food Court Presint 9,1
+amenity,fuel,Petron,1
+amenity,fuel,Petronas,2
+amenity,fuel,Petronas Cyberjaya,1
+amenity,fuel,Petronas Persiaran APEC,1
+amenity,fuel,Petronas Precint 9,1
+amenity,fuel,Shell,2
+amenity,fuel,Shell Presinct 8 Putrajaya,1
+amenity,hospital,Hospital Putrajaya,1
+amenity,hospital,Institut Kanser Negara,1
+amenity,kindergarten,Kindergarten Sk Cyberjaya,1
+amenity,kindergarten,SK Cyberjaya,1
+amenity,parking,Alhijrah Big Studio (ABS) Parking,1
+amenity,parking,Cyberview Solar Farm Car Park,1
+amenity,parking,DHL Parking,1
+amenity,parking,Dell Global IT Centre Car Park,1
+amenity,parking,FCI Parking,2
+amenity,parking,FIT Parking,1
+amenity,parking,Faculty Parking,1
+amenity,parking,Faculty of management (FOM) Staff Car Park @ MMU Cyberjaya,2
+amenity,parking,Hostel Parking,8
+amenity,parking,MCMC Parking,1
+amenity,parking,MDeC Parking,1
+amenity,parking,Multimedia University Parking,1
+amenity,parking,Park n Ride,1
+amenity,parking,Parking,1
+amenity,parking,Parking Area,1
+amenity,parking,Parking area,1
+amenity,parking,Sports Arena Cyberjaya Parking,1
+amenity,parking,University Parking,5
+amenity,parking,Visitor Car Park,1
+amenity,place_of_worship,Dewan Masjid Raja Haji Fisabilillah,1
+amenity,place_of_worship,Masjid Raja Haji Fisabilillah,2
+amenity,place_of_worship,Masjid Taman Putra Perdana,1
+amenity,place_of_worship,Mmu Mosque,1
+amenity,place_of_worship,Surau Al Hidayah MMU,1
+amenity,place_of_worship,"Surau Al Hidayah, MMU Cyberjaya",1
+amenity,place_of_worship,Surau Amanputra,1
+amenity,place_of_worship,Surau Desa Timah Langat,1
+amenity,place_of_worship,Surau Putra Al-Amin,1
+amenity,place_of_worship,Surau Smk cyberjaya,2
+amenity,place_of_worship,yasmin cyberjaya,1
+amenity,police,IPD Putrajaya,1
+amenity,police,Kompleks Balai Polis Cyberjaya,1
+amenity,recycling,Pusat Kitar Semula Presint 9,1
+amenity,restaurant,Al-Naz Maju,1
+amenity,restaurant,Al-Qasr Restaurant,1
+amenity,restaurant,Alqasr Restaurant,1
+amenity,restaurant,Ayam Penyet Ria,1
+amenity,restaurant,BarnHouse Cafe,1
+amenity,restaurant,Bus Terminal Food Court,1
+amenity,restaurant,Culinary Pleasure International Restaurant & Luxury Catering,1
+amenity,restaurant,Dengkil Food Paradise,1
+amenity,restaurant,Hammurabi Restaurant,2
+amenity,restaurant,Ikan Bakar Seri Empangan Putrajaya,1
+amenity,restaurant,Istanbul Kabab,1
+amenity,restaurant,Istanbul Palace Restaurant,1
+amenity,restaurant,Julio's Lounge,1
+amenity,restaurant,Julio's Lounge Restaurant,1
+amenity,restaurant,Kitchen Village,1
+amenity,restaurant,Kush Vegetarian Restaurant,1
+amenity,restaurant,Mazaj Restaurant,1
+amenity,restaurant,Nando's,1
+amenity,restaurant,Nandos,3
+amenity,restaurant,Nyonya Valley Restaurant,1
+amenity,restaurant,Padi,1
+amenity,restaurant,Padi House Cafeteria and Deli Cafe,1
+amenity,restaurant,Padi Restaurant,1
+amenity,restaurant,Restaurant Erra,1
+amenity,restaurant,Restoran Al-Nazmaju,1
+amenity,restaurant,Restoran JS Maju,1
+amenity,restaurant,Restoran Makang,1
+amenity,restaurant,Restoran Medina,1
+amenity,restaurant,Royale Nasi Kandar,1
+amenity,restaurant,Saba Restaurant Cyberjaya,1
+amenity,restaurant,Sabaa Restaurant,1
+amenity,restaurant,Salam Noodles,2
+amenity,restaurant,Shahnaz Maju,1
+amenity,restaurant,Sultan Cuisine Restaurant,1
+amenity,restaurant,Sysaban Restaurant,1
+amenity,restaurant,TOKYO LUNCH,2
+amenity,restaurant,Taiba Restaurant,1
+amenity,restaurant,TapMy Comfort Food Restaurant (Rooftop Pan Mee)pers Cafe Cyberjaya,1
+amenity,restaurant,The Chicken Rice Shop,1
+amenity,restaurant,The Walk,1
+amenity,restaurant,Traskun Pakistani Restaurant,1
+amenity,restaurant,Traskun Restaurant,1
+amenity,restaurant,ULAM dan SUP,1
+amenity,restaurant,Y Tomyam Seafood,1
+amenity,restaurant,myBurgerLab Cyberjaya,1
+amenity,school," SJK (C) Union, Cyberjaya ",1
+amenity,school,Brainy Bunch International School and Headquarters,1
+amenity,school,ELC International School,1
+amenity,school,"SJK (C) Union, Cyberjaya 赛城联合华文小学",1
+amenity,school,SK Cyberjaya,1
+amenity,school,SMK Cyberjaya,1
+amenity,school,Sekolah Seri Puteri Cyberjaya,1
+amenity,school,Srk Cyberjaya 1,1
+amenity,townhall,Majlis Perbandaran Sepang,1
+amenity,university,Cyberjaya University Of Medical Science,1
+amenity,university,Heriot Watt University Malaysia,1
+amenity,university,LimKokWing University College,1
+amenity,university,Limkokwing University,1
+amenity,university,Multimedia University (Mmu),1
+amenity,university,Universiti Islam Malaysia,2
+amenity,university,Universiti Multimedia,1
+amenity,university,University of Malaya Faculty of Computer Science and Engineering,1
+highway,bus_stop,"Dell, Persiara APEC",1
+highway,bus_stop,University bus stop,1
+leisure,fitness_centre,Celebrity Fitness - Dpulze,1
+leisure,fitness_centre,Putrajaya Racing Car,1
+leisure,marina,Marina Putrajaya,1
+leisure,park,Cyberjaya Mini Park,1
+leisure,park,Kelab Komuniti Taman Tasik Cyberjaya,1
+leisure,park,Obama Oval,1
+leisure,park,Parkng area,1
+leisure,park,Taman Cabaran,1
+leisure,park,Taman Seri Empangan,2
+leisure,pitch,Cyberia Field A,1
+leisure,pitch,Cyberia Tennis Court,1
+leisure,pitch,MMU Stadium,1
+leisure,sports_centre,Badminton Court,1
+leisure,sports_centre,Kelab Komuniti Taman Tasik Cyberjaya,1
+leisure,sports_centre,Kompleks Sukan Air Putrajaya Presint 6,1
+leisure,sports_centre,Kompleks Sukan Luncur Putrajaya,1
+leisure,sports_centre,Kompleks Sukan Mendaki Putrajaya,1
+leisure,sports_centre,La Vida Clubhouse,1
+leisure,sports_centre,Sports Arena Cyberjaya,1
+leisure,swimming_pool,Cyberia Main Swimming Pool,1
+leisure,swimming_pool,Cyberia Tower A Swimming Pool,1
+leisure,swimming_pool,Cyberia Tower B Swimming Pool,1
+leisure,swimming_pool,Cyberia Tower C Swimming Pool,1
+office,company,BMW Malaysia,1
+office,company,Bangunan Mustapha Kamal,1
+office,company,Bank Negara Malaysia Cyberjaya,1
+office,company,Bank Negara Malaysia Data Centre,1
+office,company,Basis Bay,1
+office,company,Blithesoft Sdn. Bhd.,1
+office,company,Block 2300 Century Square,1
+office,company,Block 2310 Century Square,1
+office,company,Block 2320 Century Square,1
+office,company,CSF Computer Exchange 1,1
+office,company,CX2 Computer Exchange,1
+office,company,City Command Centre,1
+office,company,Composites Technology Research Malaysia Sdn Bhd,1
+office,company,Cyberview,1
+office,company,DHL IT Services (EW),1
+office,company,DHL IT Services (WW),1
+office,company,DXC Global Center - IT/Finance Building,1
+office,company,Dell Asia Pacific Sdn. Bhd.,1
+office,company,Dell Global Business Centre,1
+office,company,Emerio Building,1
+office,company,Enterprise Building 1,1
+office,company,Enterprise Building 3,1
+office,company,Ericsson,1
+office,company,FSBM Holdings,1
+office,company,Fujitsu,1
+office,company,HP,2
+office,company,HP Global Centre,1
+office,company,HSBC,1
+office,company,IBM,1
+office,company,IBM Client Innovation Centre Malaysia Sdn Bhd,1
+office,company,IX Telecom,1
+office,company,Impact,1
+office,company,Infobip Asia Pacific,1
+office,company,JPJ IT Centre,1
+office,company,KRU Studio,1
+office,company,Logicalis Asia Pacific MSC Sdn. Bhd.,1
+office,company,MERP Technologies Sdn Bhd,1
+office,company,Malaysia Digital Economy Corporation (MDEC),1
+office,company,Malaysia Industry Group For High Technology (MiGHT),1
+office,company,Malaysian Communication and Multimedia Commission (MCMC),1
+office,company,Malaysian Global Innovation and Creativity Centre (MaGIC),1
+office,company,Mindteck Software Malaysia Sdn. Bhd.,1
+office,company,Mr. Accounting / ERP MySoft,1
+office,company,Mysoft Corporation Sdn Bhd (Cyberjaya HQ),1
+office,company,Prima Avenue 1,1
+office,company,Prima Avenue 2,1
+office,company,Prima Avenue 6,1
+office,company,Prima Avenue 7,1
+office,company,Prima Avenue 8,1
+office,company,RBC Dexia Investor Services,1
+office,company,SME Technopreneur Centre,1
+office,company,Saffron Info Systems Sdn. Bhd.,2
+office,company,Shell Information Technology International Sdn. Bhd.,1
+office,company,T-Systems,1
+office,company,TM Cyberjaya,1
+office,company,Tech Mahindra ICT Services ( Malaysia ) SDN. BHD.,1
+office,company,Telekom Malaysia,1
+office,company,Wisma Shell,1
+office,company,Wisma Shell-U Village,1
+office,company,amIT Global Solutions Sdn Bhd,1
+office,government,HASIL,1
+office,government,Kementerian Pelancongan & Kebudayaan,1
+office,government,Kementerian Pendidikan,1
+office,government,PTPTN Putrajaya,1
+office,government,Suruhanjaya Pencegah Rasuah Malaysia,1
+office,government,synerflux,1
+office,ngo,Yayasan Kepimpinan Perdana,1
+office,yes,Office Sk Cyberjaya,1
+office,yes,Paragon Management Office,1
+office,yes,Solstice Management Office,1
+shop,bakery,Zawara,1
+shop,books,BookXcess,2
+shop,convenience,7 Eleven,1
+shop,convenience,7-Eleven,2
+shop,hairdresser,New Look,1
+shop,hairdresser,New Look Saloon,1
+shop,hardware,Tuck Heng Hardware Trading,1
+shop,laundry,LaundryBar,1
+shop,mall,Centrus Mall,1
+shop,mall,DPulze Shopping Centre,1
+shop,mall,Shaftsbury Square Shop & Retail,1
+shop,mall,The Street Mall,1
+shop,maternity,PumpOnTheGo,1
+shop,sport,GO! Cyberjaya Cycling & Hobby Store,1
+shop,supermarket,A&C Grocery,1
+shop,supermarket,CS BROTHERS,1
+shop,supermarket,Gem In Mall Cyberjaya,1
+shop,supermarket,KK Super Mart Cyberjaya Shaftsbury Square SSQ,1
+shop,supermarket,Redtick Supermarket,1
+shop,supermarket,Village Grocer Tamarind Square,1
+tourism,apartment,The Place at Cyberjaya,1
+tourism,apartment,The Place@Cyberjaya,1
+tourism,attraction,Seri Gemilang Bridge,1
+tourism,guest_house,CyberSquare,1
+tourism,guest_house,Cybersquare Cyberjaya,1
+tourism,hostel,The Eagle Nest Ville,1
+tourism,hotel,Cyberview Lodge Resort and Spa,1
+tourism,hotel,Pullman Putrajaya Lakeside,1
+tourism,hotel,Shaftsbury Serviced Suites and Hotel,1
+tourism,hotel,Z Hotel,1
+tourism,information,Bazaar 8,1
+tourism,information,Fasa 12 Presint 9,1
